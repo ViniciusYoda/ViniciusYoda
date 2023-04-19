@@ -19,3 +19,5 @@ I work thinking about my future<br><br>I like javascript, web and mobile<br><br>
 [![](https://visitcount.itsvg.in/api?id=ViniciusYoda&icon=6&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/ViniciusYoda/ViniciusYoda/blob/output/github-contribution-grid-snake.svg)
